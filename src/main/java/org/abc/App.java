@@ -1,23 +1,4 @@
-//package org.abc;
-
-// Notice, do not import com.mysql.jdbc.*
-// or you will have problems!
-//import com.mysql.jdbc.*;
-
-//import java.sql.Connection;
-//import java.sql.DriverManager;
-//import java.sql.SQLException;
-//import java.sql.Statement;
-//import java.sql.ResultSet;
 import java.sql.*;
-
-//import java.util.Properties;
-//import java.util.HashMap;
-//import java.util.Map;
-
-//import java.io.FileInputStream;
-//import java.io.FileNotFoundException;
-//import java.io.IOException;
 
 /**
  * Hello world!
